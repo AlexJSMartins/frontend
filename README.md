@@ -14,7 +14,7 @@ Este projeto é um dashboard interativo desenvolvido em **React + Vite**, que co
 ### Backend (API)
 - [Python](https://www.python.org/)
 - [Django](https://www.djangoproject.com/)
-- [Django REST Framework](https://www.django-rest-framework.org/) (opcional para extensibilidade)
+- [Django REST Framework](https://www.django-rest-framework.org/)
 
 ---
 
@@ -80,11 +80,11 @@ source venv/bin/activate  # No Windows: venv\Scripts\activate
 
 pip install -r requirements.txt
 
-4️⃣ nicie o servidor Django:
+4️⃣ Inicie o servidor Django:
 
 python manage.py runserver
 
-O backend estará rodando em: [http://localhost:8000](http://localhost:8000)
+O backend estará rodando em: [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
 ---
 
@@ -141,7 +141,7 @@ frontend/
 ## 🧠 Autor
 
 Desenvolvido por **Alex Soares** 
-🌐 [LinkedIn](https://www.linkedin.com/in/alexjsmartins)
+🌐 LinkedIn: (https://www.linkedin.com/in/alexjsmartins)
 
 📧 Email: alexsoares848@gmail.com
 
